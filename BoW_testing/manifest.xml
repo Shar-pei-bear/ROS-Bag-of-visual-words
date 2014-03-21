@@ -1,0 +1,16 @@
+<package>
+  <description brief="BoW_testing">
+
+     BoW_testing
+
+  </description>
+  <author>Karthik</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/BoW_testing</url>
+  <depend package="opencv2"/>
+  <depend package="roscpp"/>
+
+</package>
+
+

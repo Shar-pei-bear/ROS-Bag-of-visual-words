@@ -1,0 +1,16 @@
+<package>
+  <description brief="BoW_training">
+
+     BoW_training
+
+  </description>
+  <author>Karthik</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/BoW_training</url>
+  <depend package="opencv2"/>
+  <depend package="roscpp"/>
+
+</package>
+
+

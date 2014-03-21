@@ -1,0 +1,10 @@
+dataset/corridor/image-407.png
+dataset/corridor/image-597.png
+dataset/corridor/image-599.png
+dataset/corridor/image-610.png
+dataset/corridor/image-596.png
+dataset/corridor/image-607.png
+dataset/corridor/image-601.png
+dataset/corridor/image-608.png
+dataset/corridor/image-604.png
+dataset/corridor/image-611.png
